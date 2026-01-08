@@ -1,2 +1,4 @@
 # Repressed-Memories
-A narrative-based psychological horror game. 
+
+Short narrative-based psychological horror game made in Unity. 
+Solo project.
